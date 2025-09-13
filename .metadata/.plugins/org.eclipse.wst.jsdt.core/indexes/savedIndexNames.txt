@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\suraj\Desktop\suraj patil\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2756308033.index
+1404950281.index
+2275723036.index
+978339670.index
+3292520285.index
+1151230121.index
